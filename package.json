@@ -1,0 +1,21 @@
+{
+    "name": "ast_lab_b",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+        "DevStart": "nodemon server.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.20.2",
+        "express": "^4.18.2",
+        "mongoose": "^6.9.1"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.22"
+        
+    }
+}
